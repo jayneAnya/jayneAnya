@@ -1,6 +1,8 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Anyanwu, Jane Uchechi</h1>
 <img align=“right” alt=“Coding” width=“400” src ="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
 <p align="left"> <a href="https://twitter.com/anyanwujane3" target="blank"><img src="https://img.shields.io/twitter/follow/anyanwujane3?logo=twitter&style=for-the-badge" alt="anyanwujane3" /></a> </p>
+
 
 - 🔭 I’m currently working on **Windows Form Bank Application**
 

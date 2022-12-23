@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C#, .Net,Javascript and React**
 
-- 📫 How to reach me **janeanyanwu688@gmail.com**
+- 📫 How to reach me **janeanyanwu668@gmail.com**
 
 - ⚡ Fun fact **I love good Music**
 

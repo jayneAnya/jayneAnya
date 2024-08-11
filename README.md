@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://twitter.com/anyanwujane3" target="blank"><img src="https://img.shields.io/twitter/follow/anyanwujane3?logo=twitter&style=for-the-badge" alt="anyanwujane3" /></a> </p>
 
 
-- 🔭 I’m currently working on **Windows Form Bank Application**
+- 🔭 I’m currently working on **Bondify**
 
 - 🌱 I’m currently learning **C#,.Net, React, Javascript**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C#, .Net,Javascript and React**
 
-- 📫 How to reach me **janeanyanwu668@gmail.com**
+- 📫 How to reach me **janyanwu206@gmail.com**
 
 - ⚡ Fun fact **I love good Music**
 
